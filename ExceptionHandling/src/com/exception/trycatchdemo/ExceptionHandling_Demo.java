@@ -7,6 +7,7 @@ public class ExceptionHandling_Demo {
 		try {
 			
 		int  b = 0;
+	
 	    int c = 1/b;
 		
 		} 
